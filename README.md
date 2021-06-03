@@ -1,2 +1,4 @@
 # github-zenodo-testing
-This is the GitHub repo description field
+
+This repo was created for the purposes of testing the connection between GitHub and Zenodo.
+
