@@ -19,11 +19,4 @@
         }
     ], 
     "access_right": "open",
-    "related_identifiers": [
-        {
-            "scheme": "url", 
-            "identifier": "https://github.com/mpfl/github-zenodo-testing/tree/v0.2.1", 
-            "relation": "isSupplementTo"
-        }
-    ]
 }
