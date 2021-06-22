@@ -2,7 +2,7 @@
     "description": "This is an upload arising from a repository that Matthias Liffers uses for testing", 
     "license": "cc-by-4.0", 
     "title": "This title was set in .zenodo.json", 
-    "version": "v0.2", 
+    "version": "v0.2.1", 
     "upload_type": "lesson",
     "keywords": [ "testing" ],
     "language": "eng",
@@ -22,13 +22,8 @@
     "related_identifiers": [
         {
             "scheme": "url", 
-            "identifier": "https://github.com/mpfl/github-zenodo-testing/tree/v0.2", 
+            "identifier": "https://github.com/mpfl/github-zenodo-testing/tree/v0.2.1", 
             "relation": "isSupplementTo"
-        }, 
-        {
-            "scheme": "doi", 
-            "identifier": "10.5281/zenodo.846941", 
-            "relation": "isVersionOf"
         }
     ]
 }
