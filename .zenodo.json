@@ -1,0 +1,34 @@
+{
+    "description": "This is an upload arising from a repository that Matthias Liffers uses for testing", 
+    "license": "cc-by-4.0", 
+    "title": "This title was set in .zenodo.json", 
+    "version": "v0.2", 
+    "upload_type": "lesson",
+    "keywords": [ "testing" ],
+    "language": "eng",
+    "communities": [
+        {
+            "identifier": "matthias-testing"
+        }
+    ],
+    "creators": [
+        {
+            "affiliation": "Australian Research Data Commons", 
+            "name": "Matthias Liffers",
+            "orcid": "https://orcid.org/0000-0002-3639-2080"
+        }
+    ], 
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/mpfl/github-zenodo-testing/tree/v0.2", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.846941", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
