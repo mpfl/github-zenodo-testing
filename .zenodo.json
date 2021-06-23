@@ -2,7 +2,7 @@
     "description": "This is an upload arising from a repository that Matthias Liffers uses for testing", 
     "license": "cc-by-4.0", 
     "title": "This title was set in .zenodo.json", 
-    "version": "v0.2.1", 
+    "version": "v0.2.3", 
     "upload_type": "lesson",
     "keywords": [ "testing" ],
     "language": "eng",
